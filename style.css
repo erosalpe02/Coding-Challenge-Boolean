@@ -1,0 +1,82 @@
+body{
+    background-image: url(Immagini/background.jpg);
+    background-size: 100%;
+}
+
+.container{
+    width: 50%;
+    background: rgba(0, 0, 0, 0.5);
+    margin: auto;
+    border-radius: 25px;
+    padding: 5%;
+    margin-top: 1.5%;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+h1>img{
+    width: 25%;
+}
+
+header>h2{
+    margin-top: 2%;
+}
+
+header{
+    text-align: center;
+    font-size: 0%;
+}
+
+div.container>header h2{
+    color: #00dd16;
+    font-size: 32px;
+}
+
+header>div{
+    background-color: #00dd16;
+    padding: 1%;
+}
+
+header>div input{
+    margin-right: 0.5%;
+}
+
+.status{
+    color: white;
+    margin-top: 2%;
+}
+
+div.status h2{
+    display: inline-block;
+    line-height: 1%;
+}
+
+.location{
+    line-height: 150%;
+}
+
+.batteria1{
+    background-color: #F7A814;
+    width: 350px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.batteria2{
+    background-color: #00dd16;
+    width: 550px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.batteria3{
+    background-color: #DF253C;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.via:before{
+    content: "\2192";
+}
+
+
